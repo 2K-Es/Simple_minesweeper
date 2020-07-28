@@ -1,4 +1,3 @@
-# Simple_minesweeper
 # OOP-Mini-Project
 # MINESWEEPER GAME
 ## 4th semester mini project for CS 213
